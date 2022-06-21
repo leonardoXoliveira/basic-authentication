@@ -1,3 +1,3 @@
-# Node apps base template 📝
+# Basic authentication 📝
 
-Base template for node applications with typescript.
+Basic authentication using Node / Express / Typescript with Prisma (Postgresql as database).
