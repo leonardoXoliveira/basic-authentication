@@ -2,7 +2,7 @@
   "name": "basic-authentication",
   "version": "0.0.1",
   "description": "Basic authentication using Node / Express / Typescript with Prisma (Postgresql as database).",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "repository": "git@github.com:leonardoXoliveira/basic-authentication.git",
   "author": "Leonardo Oliveira <xcontato.leonardo.x.oliveirax@gmail.com> (https://github.com/leonardoXoliveira)",
   "license": "MIT",
