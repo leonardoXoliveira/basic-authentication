@@ -13,7 +13,7 @@ app.get('/api', (_: Request, res: Response) => res.send('Hello World!'));
 
 app.use('/api', router);
 
-const port = process.env.SERVER_PORT || 3333;
+const port = process.env.PORT || 3333;
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port} 🚀`);

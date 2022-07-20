@@ -14,8 +14,8 @@
     "migrate:postgres": "npx prisma migrate dev",
     "test": "echo \"Run tests :)\"",
     "dev": "NODE_ENV=development ts-node-dev --transpile-only --ignore-watch node_modules src/index.ts",
-    "prod": "NODE_ENV=production node dist/index.js",
-    "build": "tsc"
+    "build": "tsc",
+    "prod": "NODE_ENV=production node dist/index.js"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
